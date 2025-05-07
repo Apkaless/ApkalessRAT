@@ -1,0 +1,14 @@
+numpy
+opencv-python
+PyAudio
+Pillow
+customtkinter
+pynput
+matplotlib
+psutil
+pycryptodome
+pywin32
+scapy
+browser-cookie3
+pyautogui
+pyinstaller
