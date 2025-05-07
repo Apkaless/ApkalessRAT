@@ -1,6 +1,6 @@
 Install python on ur windows
 
-after installing windows run this command in cmd: pip install -r requirements.txt
+after installing python run this command in cmd: pip install -r requirements.txt
 
 Thats it (:
 
